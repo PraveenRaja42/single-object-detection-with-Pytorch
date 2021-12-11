@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train_images</folder>
+	<filename>IMG2.jpg</filename>
+	<path>C:\Users\91950\Documents\Object Detection_1\Train_images\IMG2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Connector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>1348</ymin>
+			<xmax>1689</xmax>
+			<ymax>2122</ymax>
+		</bndbox>
+	</object>
+</annotation>

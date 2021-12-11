@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test_images</folder>
+	<filename>IMG14.jpg</filename>
+	<path>C:\Users\91950\Documents\Object Detection_1\Test_images\IMG14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Connector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>667</xmin>
+			<ymin>1391</ymin>
+			<xmax>2006</xmax>
+			<ymax>2996</ymax>
+		</bndbox>
+	</object>
+</annotation>
