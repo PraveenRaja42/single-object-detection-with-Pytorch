@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import argparse
 
-THRESHOLD = 0.2
+THRESHOLD = 0.32
 
 
 def evaluate_model(img, model):
