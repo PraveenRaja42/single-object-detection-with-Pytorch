@@ -11,4 +11,4 @@ python model_inference.py --img [path to image for evaluation] --serialized_file
 Some of the result images
 
 ![alt text](https://github.com/PraveenRaja42/single-object-detection-with-Pytorch/blob/main/result_images/IMG10.jpg)
-![alt text](https://github.com/PraveenRaja42/single-object-detection-with-Pytorch/blob/main/result_images/IMG2.jpg)
+![alt text](https://github.com/PraveenRaja42/single-object-detection-with-Pytorch/blob/main/result_images/IMG4.jpg)
