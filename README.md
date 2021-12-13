@@ -1,1 +1,1 @@
-# single-object-detection-with-Pytorch
+# single object detection with Pytorch
