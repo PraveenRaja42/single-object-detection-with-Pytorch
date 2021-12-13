@@ -1,0 +1,6 @@
+train: /content/Connector_data/images/train/
+val: /content/Connector_data/images/val/
+
+nc: 1
+
+names: ['Connector']
